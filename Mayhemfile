@@ -1,7 +1,5 @@
-project: rnshah9/mayhem-pvsneslib
-target: gfx2snes
+project: pvsneslib
+target: bin2txt
 
 cmds:
-  - cmd: /repo/tools/gfx2snes/gfx2snes -pc256 @@
-    filepath: /test.bmp
   - cmd: /repo/tools/bin2txt/bin2txt @@
