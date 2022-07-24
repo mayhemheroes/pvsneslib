@@ -2,4 +2,4 @@ project: pvsneslib
 target: bin2txt
 
 cmds:
-  - cmd: /repo/tools/bin2txt/bin2txt @@
+  - cmd: /bin2txt @@
