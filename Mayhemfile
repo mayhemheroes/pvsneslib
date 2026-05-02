@@ -1,0 +1,5 @@
+project: pvsneslib
+target: bin2txt
+
+cmds:
+  - cmd: /bin2txt @@
